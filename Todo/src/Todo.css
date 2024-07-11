@@ -1,0 +1,37 @@
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .container {
+    background-color: #304463;
+    padding: 20px;
+    border-radius: 5px;
+  
+  }
+  .input-group {
+    display: flex;
+  
+  }
+  #dltBtn, #doneBtn {
+    height: 23px;
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    
+  }
+  #dltBtn {
+    background: #be6742;
+  }
+  #doneBtn{
+    background: #4c9b58;
+  }
+  #li {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
